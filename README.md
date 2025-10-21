@@ -187,6 +187,6 @@ For questions, suggestions, or collaboration opportunities:
 ### Join Our Community
 
 <div align="center">
-  <img src="assets/wechat-qr.png" alt="WeChat Group QR Code" width="200"/>
+  <img src="assets/wechat-qr-20251021.png" alt="WeChat Group QR Code" width="200"/>
   <p>Scan to join WeChat discussion group</p>
 </div>
