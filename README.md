@@ -87,6 +87,7 @@ All academic command files are located in `.claude/commands/academic/` directory
 - `@experiment-analysis.md` - Results analysis
 - `@research-report.md` - Academic paper generation
 - `@gradio-app.md` - Model deployment interface
+- `@convert2docs.md` - Convert markdown to DOCX (optional)
 
 ### Python Environment Commands
 

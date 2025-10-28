@@ -58,6 +58,7 @@ Use these commands in sequence to complete the research workflow:
 6. `@experiment-analysis.md` - Analyze and document results
 7. `@research-report.md` - Generate Nature/Science style manuscript
 8. `@gradio-app.md` - Create model deployment interface (if applicable)
+9. `@convert2docs.md` - Convert markdown manuscripts to DOCX format (optional)
 
 ## Code Quality Standards
 

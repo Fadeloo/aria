@@ -462,6 +462,12 @@ Follow these steps in sequence:
 
    Creates interactive web interface for your model
 
+9. **Convert to DOCX (Optional)**
+
+   Type `/` and select `convert2docs.md`
+
+   Converts markdown manuscripts to DOCX format with figures and tables
+
 ### Step 7: Code Quality Checks
 
 After implementing code, ensure quality by running:
@@ -541,6 +547,7 @@ Here's a complete example using the classic Iris dataset:
    - Select `run-experiments.md`
    - Select `experiment-analysis.md`
    - Select `research-report.md`
+   - Select `convert2docs.md` (optional - to convert to DOCX)
 
    **Using Lingma IDE:**
 
@@ -552,6 +559,7 @@ Here's a complete example using the classic Iris dataset:
    - `@run-experiments.md`
    - `@experiment-analysis.md`
    - `@research-report.md`
+   - `@convert2docs.md` (optional - to convert to DOCX)
 
 ## Troubleshooting
 

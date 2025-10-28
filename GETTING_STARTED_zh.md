@@ -462,6 +462,12 @@ ARIA 通过 AI 工作流命令自动化研究过程，命令位于 `.claude/comm
 
    构建模型的交互式 Web 界面
 
+9. **转换为DOCX（可选）**
+
+   输入 `/` 并选择 `convert2docs.md`
+
+   将Markdown格式的论文转换为DOCX格式，并插入图表
+
 ### 步骤 7：代码质量检查
 
 实现代码后，请运行以下命令确保质量：
@@ -541,6 +547,7 @@ ruff format src/
    - 选择 `run-experiments.md`
    - 选择 `experiment-analysis.md`
    - 选择 `research-report.md`
+   - 选择 `convert2docs.md`（可选 - 转换为DOCX）
 
    **使用通义灵码 Lingma IDE：**
 
@@ -552,6 +559,7 @@ ruff format src/
    - `@run-experiments.md`
    - `@experiment-analysis.md`
    - `@research-report.md`
+   - `@convert2docs.md`（可选 - 转换为DOCX）
 
 ## 故障排查
 

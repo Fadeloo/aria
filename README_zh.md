@@ -89,6 +89,7 @@ aria/
 - `@experiment-analysis.md` - 结果分析
 - `@research-report.md` - 学术论文生成
 - `@gradio-app.md` - 模型部署界面
+- `@convert2docs.md` - Markdown转DOCX（可选）
 
 ### Python 环境命令
 
